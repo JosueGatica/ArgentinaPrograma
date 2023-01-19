@@ -1,0 +1,46 @@
+*{
+    color: yellow;
+}
+
+
+p, span{
+    
+    padding: 5px solid red;;
+    color: red;
+    margin-top: 5px  red;
+    margin-left: 5px  green;
+    margin-right: 5px  red;
+    margin-bottom: 5px  green;
+    border-top: 5px solid red;
+    border-left: 5px solid green;
+    border-right: 5px solid red;
+    border-bottom: 5px solid green;
+}
+
+div {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+#hola_mundo_principal{
+    color: orange;
+    border: 20px solid yellow;
+}
+
+.miclase{
+    font-family: 'Roboto', sans-serif;
+    font-weight: blue;
+    color: blue;
+}
+
+div h1 {
+
+    color: violet;
+}
+    
+
+/*
+Comentarios en CSS
+*/
